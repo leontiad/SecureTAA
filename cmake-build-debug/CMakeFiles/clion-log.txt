@@ -1,0 +1,4 @@
+/home/leontiad/programs/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/leontiad/CLionProjects/SecureTAA
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/leontiad/CLionProjects/SecureTAA/cmake-build-debug

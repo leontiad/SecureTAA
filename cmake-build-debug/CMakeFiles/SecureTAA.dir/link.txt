@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SecureTAA.dir/main.cpp.o CMakeFiles/SecureTAA.dir/BroadCastEncryption.cpp.o  -o SecureTAA 
